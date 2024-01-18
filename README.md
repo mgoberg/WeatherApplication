@@ -1,10 +1,10 @@
 ## Weather application written in Java
-This is a javabased program that provides real-tiome weather information, and is part of a course where the goal is to work with API's and GUI.
+This is a javabased program that provides real-time weather information, and is part of a course where the goal is to work with API's and GUI.
 
 ## Technologies used
-Java 21
-[JSON Simple](https://code.google.com/archive/p/json-simple/downloads)
-[HTTPURLConnection](https://www.javatpoint.com/java-http-url-connection)
+* Java 21
+* [JSON Simple](https://code.google.com/archive/p/json-simple/downloads)
+* [HTTPURLConnection](https://www.javatpoint.com/java-http-url-connection)
 
 
 
